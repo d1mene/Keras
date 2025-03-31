@@ -1,5 +1,5 @@
 
-<span style="font-size: 24px">Знакомство с Keras: VGG16, MobileNet и другое</span>
+# <span style="font-size: 24px">Знакомство с Keras: VGG16, MobileNet и другое</span>
 <br>
 <p>В данном проекте демонстрирую полученные знания по работе с Tensorflow и Keras API.</p>
 
